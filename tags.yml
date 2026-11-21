@@ -1,0 +1,42 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: document-management
+  name: "Document Management"
+- id: metadata
+  name: "Metadata"
+- id: cloud
+  name: "Cloud"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: workflow
+  name: "Workflow"
+- id: freemium
+  name: "Freemium"
+- id: file-sharing
+  name: "File Sharing"
+- id: collaboration
+  name: "Collaboration"
+- id: open-source
+  name: "Open Source"
+- id: paperless
+  name: "Paperless"
+- id: ocr
+  name: "OCR"
+- id: scanning
+  name: "Scanning"
+- id: dms
+  name: "DMS"
+- id: ecm
+  name: "ECM"
+- id: records-management
+  name: "Records Management"
+- id: personal-dms
+  name: "Personal DMS"
+- id: archiving
+  name: "Archiving"

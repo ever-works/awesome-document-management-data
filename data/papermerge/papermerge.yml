@@ -1,0 +1,13 @@
+name: "Papermerge"
+description: "Papermerge is an open-source document management system focused on archiving and managing scanned documents. It supports OCR, version control, and user permissions for self-hosted environments. It is available under the AGPLv3 license."
+source_url: "https://papermerge.com/"
+category: "Paperless & Scanning"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "paperless"
+  - "scanning"
+  - "ocr"
+icon_url: "https://icons.duckduckgo.com/ip3/papermerge.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://papermerge.com/>\n- Repository: <https://github.com/ciur/papermerge>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 14:49"

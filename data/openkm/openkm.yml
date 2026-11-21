@@ -1,0 +1,13 @@
+name: "OpenKM"
+description: "OpenKM is an open-source document management system offering document control, metadata, and workflow automation. It can be deployed on-premises or in the cloud and includes a web interface and APIs. Licensing includes a community edition and commercial subscriptions."
+source_url: "https://www.openkm.com/"
+category: "Open-Source & Self-Hosted DMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "workflow"
+  - "dms"
+icon_url: "https://icons.duckduckgo.com/ip3/www.openkm.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.openkm.com/>\n- Repository: <https://github.com/openkm/document-management-system>\n\nLicense: GPL-2.0 / Commercial.\n"
+updated_at: "2026-11-21 14:49"

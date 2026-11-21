@@ -1,0 +1,13 @@
+name: "Laserfiche"
+description: "Laserfiche is an enterprise content management platform for document imaging, records management, and business process automation. It serves government and commercial organizations with cloud and on-premises deployment. Pricing is quote-based and enterprise-focused."
+source_url: "https://www.laserfiche.com/"
+category: "Enterprise Content Management"
+tags:
+  - "paid"
+  - "enterprise"
+  - "records-management"
+  - "api"
+  - "workflow"
+icon_url: "https://icons.duckduckgo.com/ip3/www.laserfiche.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.laserfiche.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 14:49"

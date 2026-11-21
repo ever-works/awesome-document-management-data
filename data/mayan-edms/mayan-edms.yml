@@ -1,0 +1,13 @@
+name: "Mayan EDMS"
+description: "Mayan EDMS is an open-source electronic document management system with features for document indexing, versioning, and workflow automation. It provides a web interface and REST API for self-hosted deployment. The project is licensed under Apache 2.0."
+source_url: "https://www.mayan-edms.com/"
+category: "Open-Source & Self-Hosted DMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "workflow"
+  - "dms"
+icon_url: "https://icons.duckduckgo.com/ip3/www.mayan-edms.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.mayan-edms.com/>\n- Repository: <https://github.com/mayan-edms/mayan-edms>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 14:49"

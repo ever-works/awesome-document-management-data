@@ -1,0 +1,13 @@
+name: "Docspell"
+description: "Docspell is an open-source personal document management system for organizing and archiving documents. It supports automatic fetching from email and IMAP, tagging, and full-text search. It is designed for self-hosting by individuals and small teams."
+source_url: "https://docspell.org/"
+category: "Open-Source & Self-Hosted DMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "personal-dms"
+  - "ocr"
+  - "archiving"
+icon_url: "https://icons.duckduckgo.com/ip3/docspell.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://docspell.org/>\n- Repository: <https://github.com/docspell/docspell>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 14:49"

@@ -1,0 +1,12 @@
+- id: document-management-systems
+  name: "Document Management Systems"
+- id: open-source-and-self-hosted-dms
+  name: "Open-Source & Self-Hosted DMS"
+- id: paperless-and-scanning
+  name: "Paperless & Scanning"
+- id: enterprise-content-management
+  name: "Enterprise Content Management"
+- id: cloud-file-collaboration
+  name: "Cloud File Collaboration"
+- id: records-management
+  name: "Records Management"
