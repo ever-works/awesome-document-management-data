@@ -1,14 +1,52 @@
-- url: "https://www.softwaresuggest.com/document-management-software"
-  title: "SoftwareSuggest — Document Management software"
-- url: "https://www.saashub.com/best-document-management-system-software"
-  title: "SaaSHub — Document Management System"
-- url: "https://zapier.com/blog/best-document-management-software/"
-  title: "Zapier — The 20 best document management software systems in 2026"
-- url: "https://openalternative.co/categories/business-software/document-management-e-signatures"
-  title: "OpenAlternative — Document Management & E-Signatures"
-- url: "https://awesome-selfhosted.net/tags/document-management.html"
-  title: "awesome-selfhosted — Document Management"
-- url: "https://en.wikipedia.org/wiki/Category:Document_management_systems"
-  title: "Wikipedia — Category:Document management systems"
-- url: "https://github.com/topics/document-management"
-  title: "GitHub topic — `document-management` (1,402 repos)"
+- url: https://awesome-selfhosted.net/tags/document-management.html
+  normalized_url: https://awesome-selfhosted.net/tags/document-management.html
+  first_seen_at: 2026-11-22T00:37:44.982Z
+  last_attempted_at: 2026-11-22T00:37:44.982Z
+  last_success_at: 2026-11-22T00:37:44.982Z
+  status: success
+  items_created: 15
+  pipeline: agent-pipeline
+- url: https://en.wikipedia.org/wiki/Category:Document_management_systems
+  normalized_url: https://en.wikipedia.org/wiki/Category:Document_management_systems
+  first_seen_at: 2026-11-22T00:40:20.243Z
+  last_attempted_at: 2026-11-22T00:40:20.243Z
+  last_success_at: 2026-11-22T00:40:20.243Z
+  status: success
+  items_created: 10
+  pipeline: agent-pipeline
+- url: https://github.com/topics/document-management
+  normalized_url: https://github.com/topics/document-management
+  first_seen_at: 2026-11-22T00:36:04.749Z
+  last_attempted_at: 2026-11-22T00:36:04.749Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/document-management"
+- url: https://openalternative.co/categories/business-software/document-management-e-signatures
+  title: OpenAlternative — Document Management & E-Signatures
+  normalized_url: https://openalternative.co/categories/business-software/document-management-e-signatures
+- url: https://www.saashub.com/best-document-management-system-software
+  normalized_url: https://www.saashub.com/best-document-management-system-software
+  first_seen_at: 2026-11-22T00:48:08.050Z
+  last_attempted_at: 2026-11-22T00:48:08.050Z
+  last_success_at: 2026-11-22T00:48:08.050Z
+  status: success
+  items_created: 10
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/document-management-software
+  normalized_url: https://www.softwaresuggest.com/document-management-software
+  first_seen_at: 2026-11-22T00:45:25.450Z
+  last_attempted_at: 2026-11-22T00:45:25.450Z
+  last_success_at: 2026-11-22T00:45:25.450Z
+  status: success
+  items_created: 7
+  pipeline: agent-pipeline
+- url: https://zapier.com/blog/best-document-management-software/
+  normalized_url: https://zapier.com/blog/best-document-management-software
+  first_seen_at: 2026-11-22T00:41:43.606Z
+  last_attempted_at: 2026-11-22T00:41:43.606Z
+  last_success_at: 2026-11-22T00:41:43.606Z
+  status: success
+  items_created: 14
+  pipeline: agent-pipeline
