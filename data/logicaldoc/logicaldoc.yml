@@ -1,0 +1,63 @@
+name: LogicalDOC
+description: LogicalDOC is a document management system designed to manage,
+  index, and share business documents. It is available in both a community
+  edition (open source, GNU LGPL) and commercial editions, supporting
+  self-hosted deployment with features including full-text search, version
+  control, workflow automation, and role-based access control.
+source_url: https://www.logicaldoc.com/
+category: Document Management Systems
+tags:
+  - Open Source
+  - Self-Hosted
+  - DMS
+  - Workflow
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LogicalDOC is a document management system (DMS) for managing, indexing, and
+  sharing business documents. It is offered in both a free community edition and
+  commercial editions.
+
+
+  ## Features
+
+
+  - Full-text search across documents
+
+  - Version control and document history
+
+  - Workflow automation
+
+  - Role-based access control and permissions
+
+  - Document indexing and metadata management
+
+  - Multi-language support
+
+  - Web-based user interface
+
+
+  ## Deployment
+
+
+  Self-hosted; available as a community edition and commercial editions.
+
+
+  ## Pricing
+
+
+  Community edition is open source (GNU LGPL); commercial editions are paid with
+  licensing based on deployment scale.
+
+
+  ## Repository
+
+
+  Source code available on GitHub: https://github.com/logicaldoc
+brand: LogicalDOC
+brand_logo_url: https://www.logicaldoc.com/images/logo.png
+images:
+  - https://www.logicaldoc.com/images/logo.png
+updated_at: 2026-11-22 00:49

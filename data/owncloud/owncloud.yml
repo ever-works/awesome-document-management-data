@@ -1,0 +1,66 @@
+name: ownCloud
+description: ownCloud is an open-source, self-hosted file sharing and
+  collaboration platform that enables organizations to store, sync, and share
+  files and documents on their own infrastructure. It is released under the GNU
+  AGPL license and provides web-based file management, desktop and mobile
+  clients, and integration with productivity tools.
+source_url: https://owncloud.com/
+category: Cloud File Collaboration
+tags:
+  - Open Source
+  - Self-Hosted
+  - File Sharing
+  - Collaboration
+  - GNU AGPL
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ownCloud is an open-source, self-hosted file sharing and collaboration
+  platform for storing, syncing, and sharing files and documents on private
+  infrastructure.
+
+
+  ## Features
+
+
+  - File synchronization and sharing across desktop and mobile devices
+
+  - Web-based file manager with document preview
+
+  - Versioning and access control
+
+  - User and group management
+
+  - External storage support (S3, FTP, WebDAV, etc.)
+
+  - Encryption and security features
+
+  - Collaboration apps and plugins
+
+  - Integration with document editors
+
+
+  ## Deployment
+
+
+  Self-hosted; supports LAMP stack and various Linux environments.
+
+
+  ## Pricing
+
+
+  Free and open source under the GNU Affero General Public License (AGPL);
+  enterprise editions and support available commercially.
+
+
+  ## Repository
+
+
+  Source code available on GitHub: https://github.com/owncloud
+brand: ownCloud GmbH
+brand_logo_url: https://owncloud.com/assets/images/logo.png
+images:
+  - https://owncloud.com/assets/images/logo.png
+updated_at: 2026-11-22 00:49

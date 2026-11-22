@@ -1,0 +1,49 @@
+name: EisenVault
+description: EisenVault is a document management system with a robust encryption
+  algorithm for securing documents. It offers high storage capacity for large
+  files, easy-to-use interface after initial setup, and audit trail for
+  compliance and security purposes. Pricing is custom.
+source_url: https://www.eisenvault.com/
+category: Records Management
+tags:
+  - Security
+  - Encryption
+  - Paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  EisenVault is a document management platform with an extra focus on security.
+  It features a robust encryption algorithm to keep documents safe and provides
+  audit trail capabilities for compliance and security purposes.
+
+
+  ## Features
+
+
+  - Robust encryption algorithm for document security
+
+  - High storage capacity for storing and sharing large files
+
+  - Easy to use after initial setup
+
+  - Audit trail for compliance and security
+
+  - Access control for restricting access to sensitive documents
+
+  - View, edit, and approve document permissions
+
+
+  ## Pricing
+
+
+  Custom pricing (contact vendor for quote)
+
+
+  ## Deployment
+
+
+  Cloud-based platform.
+brand: EisenVault
+updated_at: 2026-11-22 00:49

@@ -1,0 +1,52 @@
+name: I, Librarian
+description: Organize PDF papers and office documents with extra features for
+  students and research groups both in industry and academia. Licensed under
+  GPL-3.0.
+source_url: https://i-librarian.github.io/
+category: Open-Source & Self-Hosted DMS
+tags:
+  - open-source
+  - self-hosted
+  - research
+  - pdf-organizer
+featured: false
+markdown: >-
+  ## Overview
+
+
+  I, Librarian organizes PDF papers and office documents, providing extra
+  features for students and research groups in both industry and academia.
+
+
+  ## Features
+
+
+  - Organize PDF papers
+
+  - Office document management
+
+  - Research group features
+
+  - Academic document management
+
+
+  ## Deployment
+
+
+  Self-hosted via PHP
+
+
+  ## License
+
+
+  GPL-3.0
+
+
+  ## Repository
+
+
+  https://github.com/rsmaxwell/i-librarian
+brand: I, Librarian
+brand_logo_url: null
+images: []
+updated_at: 2026-11-22 00:49

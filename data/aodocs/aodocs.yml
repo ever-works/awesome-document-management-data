@@ -1,0 +1,46 @@
+name: AODocs
+description: AODocs is a document management solution built for Google
+  Workspace, helping organizations secure documents, structure content, and
+  automate business processes. It provides advanced document management,
+  workflow automation, and compliance and security capabilities. Pricing is
+  paid, with deployment via cloud (Google Workspace integrated).
+source_url: https://aodocs.com
+category: Document Management Systems
+tags:
+  - Paid
+  - API
+  - Google Workspace
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AODocs is the document management solution recommended for G Suite (now Google
+  Workspace). It enables organizations to secure their documents, structure
+  content, and automate processes.
+
+
+  ## Features
+
+
+  - Integration with Google Workspace
+
+  - Advanced Document Management
+
+  - Workflow Automation
+
+  - Compliance and Security
+
+
+  ## Pricing
+
+
+  Paid. Contact vendor for pricing details.
+
+
+  ## Deployment
+
+
+  Cloud-based, integrated with Google Workspace.
+brand: AODocs
+updated_at: 2026-11-22 00:49

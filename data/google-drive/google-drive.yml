@@ -1,0 +1,62 @@
+name: Google Drive
+description: Google Drive is a cloud storage platform with document management
+  features including real-time collaboration, versioning, and commenting. It
+  integrates with Google Workspace and third-party tools, and includes Gemini AI
+  for AI search and AI-powered security. Google Drive is free for personal use
+  with paid Google Workspace plans starting at $7/user/month.
+source_url: https://drive.google.com/
+category: Cloud File Collaboration
+tags:
+  - Collaboration
+  - Cloud Storage
+  - Freemium
+  - AI-Powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Google Drive is a cloud storage platform that offers document management
+  features including real-time collaboration, version tracking, and commenting.
+  It integrates with Google Workspace and thousands of third-party apps.
+
+
+  ## Features
+
+
+  - Intuitive and easy to use
+
+  - Real-time collaboration with multiple team members
+
+  - Versioning and change tracking
+
+  - Commenting on documents
+
+  - Integration with Google Workspace
+
+  - Third-party app integrations
+
+  - Gemini AI for AI search and AI-powered security
+
+  - Document summarization
+
+  - eSign option
+
+  - Zapier integration for workflow automation
+
+
+  ## Pricing
+
+
+  - Free for personal use
+
+  - Paid Google Workspace plans start at $7/user/month (annual billing)
+
+
+  ## Deployment
+
+
+  Cloud-based platform.
+brand: Google
+brand_logo_url: https://www.google.com/favicon.ico
+updated_at: 2026-11-22 00:49

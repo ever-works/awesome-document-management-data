@@ -1,0 +1,65 @@
+name: ONLYOFFICE
+description: ONLYOFFICE is an open-source office suite and document management
+  platform that includes online editors, document collaboration, and self-hosted
+  deployment options. It provides document editing, version control, sharing,
+  and access control, with integration into various DMS and ECM systems.
+source_url: https://www.onlyoffice.com/
+category: Document Management Systems
+tags:
+  - Open Source
+  - Self-Hosted
+  - Collaboration
+  - Office Suite
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ONLYOFFICE is an open-source office suite and document collaboration platform
+  offering online document editors, version control, sharing, and access
+  management.
+
+
+  ## Features
+
+
+  - Document, spreadsheet, and presentation editors
+
+  - Real-time co-authoring and collaboration
+
+  - Version control and document history
+
+  - Access control and sharing permissions
+
+  - Comments, chat, and review modes
+
+  - Form creation and filling
+
+  - Integration with Nextcloud, ownCloud, SharePoint, and other DMS/ECM
+  platforms
+
+
+  ## Deployment
+
+
+  Available as self-hosted (Community Edition, GNU AGPL) and cloud (SaaS)
+  editions.
+
+
+  ## Pricing
+
+
+  Community Edition is free and open source (GNU AGPL); commercial editions and
+  SaaS subscriptions are paid.
+
+
+  ## Repository
+
+
+  Source code available on GitHub: https://github.com/ONLYOFFICE
+brand: Ascensio System
+brand_logo_url: https://www.onlyoffice.com/images/logo.svg
+images:
+  - https://www.onlyoffice.com/images/logo.svg
+updated_at: 2026-11-22 00:49

@@ -1,0 +1,52 @@
+name: Egnyte
+description: Egnyte is a cloud file collaboration platform with strong security
+  and data governance features. It includes ransomware detection and recovery,
+  built-in compliance, and strict data retention policies. Egnyte bridges the
+  gap between cloud storage and full document management software. Pricing
+  starts at $22/user/month for the Business plan.
+source_url: https://www.egnyte.com/
+category: Cloud File Collaboration
+tags:
+  - Security
+  - Governance
+  - Ransomware
+  - Paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Egnyte is a middle-of-the-road solution bridging cloud storage and full
+  document management software. It includes strong collaboration and workflow
+  features with a focus on security and governance.
+
+
+  ## Features
+
+
+  - Strong security and data governance features
+
+  - Ransomware detection and recovery
+
+  - Built-in compliance
+
+  - Strict data retention policies
+
+  - Collaboration and workflow features
+
+  - Single document AI capabilities
+
+
+  ## Pricing
+
+
+  Starts at $22/user/month for the Business plan, which includes basic features
+  and single document AI.
+
+
+  ## Deployment
+
+
+  Cloud-based platform.
+brand: Egnyte
+updated_at: 2026-11-22 00:49

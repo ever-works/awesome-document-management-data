@@ -1,0 +1,35 @@
+name: OpenSign
+description: Document signing software, an open-source alternative to DocuSign.
+  Licensed under AGPL-3.0.
+source_url: https://opensign.org/
+category: Open-Source & Self-Hosted DMS
+tags:
+  - open-source
+  - self-hosted
+  - document-signing
+featured: false
+markdown: |-
+  ## Overview
+
+  OpenSign is document signing software, an open-source alternative to DocuSign.
+
+  ## Features
+
+  - Document signing
+  - Open-source alternative to DocuSign
+
+  ## Deployment
+
+  Self-hosted via Docker
+
+  ## License
+
+  AGPL-3.0
+
+  ## Repository
+
+  https://github.com/OpenSignHQ/OpenSign
+brand: OpenSign
+brand_logo_url: null
+images: []
+updated_at: 2026-11-22 00:49

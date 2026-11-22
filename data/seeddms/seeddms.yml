@@ -1,0 +1,50 @@
+name: SeedDMS
+description: Document Management System with workflows, access rights, fulltext
+  search, and more. Licensed under GPL-2.0.
+source_url: https://www.seeddms.org/
+category: Open-Source & Self-Hosted DMS
+tags:
+  - open-source
+  - self-hosted
+  - document-management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SeedDMS is a Document Management System with workflows, access rights,
+  fulltext search, and more.
+
+
+  ## Features
+
+
+  - Document management
+
+  - Workflows
+
+  - Access rights management
+
+  - Fulltext search
+
+
+  ## Deployment
+
+
+  Self-hosted via PHP
+
+
+  ## License
+
+
+  GPL-2.0
+
+
+  ## Repository
+
+
+  https://github.com/seed-dms/seed-dms
+brand: SeedDMS
+brand_logo_url: null
+images: []
+updated_at: 2026-11-22 00:49

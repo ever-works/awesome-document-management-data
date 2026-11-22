@@ -1,0 +1,51 @@
+name: SimpleDMS
+description: Easy-to-use, metadata-driven, document management system (DMS) for
+  small businesses that sorts documents almost by itself. Licensed under
+  AGPL-3.0.
+source_url: https://simpledms.app/
+category: Open-Source & Self-Hosted DMS
+tags:
+  - open-source
+  - self-hosted
+  - document-management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SimpleDMS is an easy-to-use, metadata-driven document management system for
+  small businesses that sorts documents almost by itself.
+
+
+  ## Features
+
+
+  - Metadata-driven document management
+
+  - Automatic document sorting
+
+  - Small business focused
+
+  - Easy-to-use interface
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker
+
+
+  ## License
+
+
+  AGPL-3.0
+
+
+  ## Repository
+
+
+  https://github.com/simpledms/simpledms
+brand: SimpleDMS
+brand_logo_url: null
+images: []
+updated_at: 2026-11-22 00:49

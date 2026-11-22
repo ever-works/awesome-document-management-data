@@ -1,0 +1,48 @@
+name: EveryDocs
+description: Simple Document Management System for private use with basic
+  functionality to organize your documents digitally. Licensed under GPL-3.0.
+source_url: https://everydocs.de/
+category: Open-Source & Self-Hosted DMS
+tags:
+  - open-source
+  - self-hosted
+  - document-management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  EveryDocs is a simple Document Management System for private use with basic
+  functionality to organize your documents digitally.
+
+
+  ## Features
+
+
+  - Document organization
+
+  - Digital document management
+
+  - Simple interface for private use
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker
+
+
+  ## License
+
+
+  GPL-3.0
+
+
+  ## Repository
+
+
+  https://github.com/everydocs/everydocs
+brand: EveryDocs
+brand_logo_url: null
+images: []
+updated_at: 2026-11-22 00:49

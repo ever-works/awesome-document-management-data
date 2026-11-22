@@ -1,0 +1,55 @@
+name: MasterControl
+description: MasterControl is a document management system for regulated
+  industries such as medical, pharmaceutical, and food and beverage. It is 21
+  CFR Part 11 Compliant with time-stamp audit trails, reporting, and eSignature
+  functionality. Pricing is custom.
+source_url: https://www.mastercontrol.com/
+category: Records Management
+tags:
+  - Compliance
+  - Security
+  - Enterprise
+  - Paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MasterControl is a document management system designed for regulated
+  industries. It helps organizations stay compliant with federal regulations
+  including 21 CFR Part 11 requirements for medical, pharmaceutical, and food
+  and beverage sectors.
+
+
+  ## Features
+
+
+  - 21 CFR Part 11 compliance
+
+  - Time-stamp audit trail
+
+  - Reporting capabilities
+
+  - eSignature functionality
+
+  - Access control
+
+  - Versioning
+
+  - Training modules for compliance
+
+  - Security features for protecting sensitive information
+
+
+  ## Pricing
+
+
+  Custom pricing (contact vendor for quote)
+
+
+  ## Deployment
+
+
+  Cloud-based platform.
+brand: MasterControl
+updated_at: 2026-11-22 00:49

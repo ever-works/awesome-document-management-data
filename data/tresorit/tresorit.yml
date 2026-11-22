@@ -1,0 +1,61 @@
+name: Tresorit
+description: Tresorit is a secure cloud storage solution known for its
+  end-to-end encryption, ensuring data privacy. It offers seamless file sharing,
+  collaboration tools, and cross-platform accessibility, making it suitable for
+  businesses and individuals prioritizing security and ease of use. Pricing is
+  paid, starting at $12 per user per month for Personal and $19 per user per
+  month for Business Standard.
+source_url: https://tresorit.com/
+category: Cloud File Collaboration
+tags:
+  - paid
+  - encryption
+  - cloud-storage
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tresorit is a secure cloud storage solution known for its end-to-end
+  encryption, ensuring data privacy. It offers seamless file sharing,
+  collaboration tools, and cross-platform accessibility.
+
+
+  ## Key Features
+
+
+  - End-to-end encryption
+
+  - Granular permissions
+
+  - File versioning
+
+  - Two factor authentication
+
+  - Integration with apps
+
+  - Access control
+
+  - Mobile access
+
+  - File synchronization
+
+  - Activity tracking
+
+
+  ## Pricing Model
+
+
+  Paid subscription. Personal plan starts at $12 per user per month. Business
+  Standard plan starts at $19 per user per month.
+
+
+  ## Deployment
+
+
+  Cloud-hosted.
+brand: Tresorit
+brand_logo_url: https://tresorit.com/img/tresorit-logo.svg
+images:
+  - https://tresorit.com/img/tresorit-og-image.png
+updated_at: 2026-11-22 00:49

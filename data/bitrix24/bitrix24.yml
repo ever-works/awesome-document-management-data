@@ -1,0 +1,63 @@
+name: Bitrix24
+description: Bitrix24 is an all-in-one platform that includes document
+  management software alongside CRM and collaboration tools. It enables file
+  sharing, version tracking, and workflow automation, making it suitable for
+  teams seeking a unified document management solution. Pricing includes a free
+  plan and paid tiers starting at $39 per month for unlimited users.
+source_url: https://www.bitrix24.com/
+category: Document Management Systems
+tags:
+  - Freemium
+  - All-in-One
+  - CRM
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bitrix24 is an all-in-one platform that includes document management software
+  alongside CRM and collaboration tools.
+
+
+  ## Features
+
+
+  - Email Marketing
+
+  - Mobile CRM
+
+  - Document Management
+
+  - Workflow Automation
+
+  - Sales Automation
+
+  - Telephony Integration
+
+  - Task Management
+
+  - Reporting And Analytics
+
+  - File sharing
+
+  - Version tracking
+
+
+  ## Pricing
+
+
+  - **Free**: $0 per user/month
+
+  - **Plus**: $39 per month for unlimited users
+
+  - **Standard**: $99 per month for unlimited users
+
+  - **Professional**: $199 per month for unlimited users
+
+
+  ## Deployment
+
+
+  Cloud-based
+brand: Bitrix24
+updated_at: 2026-11-22 00:49

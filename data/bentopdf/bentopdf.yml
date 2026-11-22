@@ -1,0 +1,50 @@
+name: BentoPDF
+description: Privacy-first, client-side PDF toolkit that allows you to
+  manipulate, edit, merge, and process PDF files directly in your browser.
+  Open-source document management tool licensed under AGPL-3.0.
+source_url: https://github.com/AdamWojtasik/BentoPDF
+category: Open-Source & Self-Hosted DMS
+tags:
+  - open-source
+  - self-hosted
+  - pdf
+featured: false
+markdown: >-
+  ## Overview
+
+
+  BentoPDF is a powerful, privacy-first, client-side PDF toolkit that allows
+  users to manipulate, edit, merge, and process PDF files directly in their
+  browser without uploading documents to a server.
+
+
+  ## Features
+
+
+  - Client-side PDF processing (privacy-first)
+
+  - Edit, merge, and process PDF files
+
+  - Browser-based operation
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker
+
+
+  ## License
+
+
+  AGPL-3.0
+
+
+  ## Repository
+
+
+  https://github.com/AdamWojtasik/BentoPDF
+brand: BentoPDF
+brand_logo_url: null
+images: []
+updated_at: 2026-11-22 00:49

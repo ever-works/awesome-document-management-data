@@ -1,0 +1,46 @@
+name: infoRouter
+description: infoRouter is an EDMS that includes Workflow, Document routing,
+  Electronic Forms, Scanning, Storage, Archiving, Indexing & Records Management.
+  It provides comprehensive document management, workflow automation, compliance
+  and security, and collaboration tools. Pricing is paid, available as cloud or
+  self-hosted.
+source_url: https://www.inforouter.com
+category: Document Management Systems
+tags:
+  - Paid
+  - Self-Hosted
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  infoRouter is an Electronic Document Management System (EDMS) that includes
+  Workflow, Document routing, Electronic Forms, Scanning, Storage, Archiving,
+  Indexing & Records Management.
+
+
+  ## Features
+
+
+  - Document Management
+
+  - Workflow Automation
+
+  - Compliance and Security
+
+  - Collaboration Tools
+
+
+  ## Pricing
+
+
+  Paid. Contact vendor for pricing details.
+
+
+  ## Deployment
+
+
+  Cloud or self-hosted.
+brand: infoRouter
+updated_at: 2026-11-22 00:49

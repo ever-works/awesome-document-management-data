@@ -1,0 +1,59 @@
+name: Dropbox Business
+description: Dropbox Business is a cloud storage and file sharing platform with
+  document management features including versioning, eSignature, and audit logs.
+  It offers secure file storage and sharing with link expiration and integrates
+  with popular office suites. Business plans start at $16.58/month for a single
+  user or $15/user/mo for 3+ users.
+source_url: https://www.dropbox.com/business
+category: Cloud File Collaboration
+tags:
+  - Cloud Storage
+  - File Sharing
+  - Freemium
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Dropbox Business is a cloud storage service that also serves as a lightweight
+  document management solution. It offers versioning for collaboration,
+  eSignature, and audit logs as document management features.
+
+
+  ## Features
+
+
+  - User-friendly interface
+
+  - Seamless integration with popular office suites
+
+  - Secure file storage and sharing
+
+  - Link expiration
+
+  - Versioning for collaboration
+
+  - eSignature
+
+  - Audit logs
+
+  - Zapier integration for workflow automation
+
+
+  ## Pricing
+
+
+  - Free plan available for personal use
+
+  - Business plans start at $16.58/month (annual billing) for a single user
+
+  - $15/user/mo for 3+ users
+
+
+  ## Deployment
+
+
+  Cloud-based platform.
+brand: Dropbox
+brand_logo_url: https://www.dropbox.com/s/images/branding/dropbox-logo.svg
+updated_at: 2026-11-22 00:49

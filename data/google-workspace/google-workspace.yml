@@ -1,0 +1,50 @@
+name: Google Workspace
+description: Google Workspace is a cloud-based document collaboration and
+  productivity suite offering tools for creating, storing, and sharing
+  documents. It provides real-time collaboration and secure access controls,
+  serving teams working across locations.
+source_url: https://workspace.google.com/
+category: Cloud File Collaboration
+tags:
+  - cloud
+  - collaboration
+  - productivity
+featured: false
+markdown: >
+  ## Overview
+
+
+  Google Workspace is a cloud-based document management software offering
+  cloud-based tools for creating, storing, and sharing documents. With real-time
+  collaboration and secure access controls, it serves as an efficient cloud
+  document management software for teams working across locations.
+
+
+  ## Features
+
+
+  - Google Forms
+
+  - Google Chat
+
+  - Gmail
+
+  - Endpoint Management
+
+  - Google Tasks
+
+  - Google Sites
+
+  - Google Admin Console
+
+  - Google Sheets
+
+
+  ## Pricing
+
+
+  Pricing information not fully available in source data.
+brand: Google
+brand_logo_url: https://www.google.com/favicon.ico
+images: []
+updated_at: 2026-11-22 00:49

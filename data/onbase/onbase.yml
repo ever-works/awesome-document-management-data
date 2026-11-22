@@ -1,0 +1,57 @@
+name: Hyland OnBase
+description: Hyland OnBase is an enterprise content management (ECM) platform
+  used by large organizations to manage documents, records, and business
+  processes. It provides document imaging, records management, workflow
+  automation, and case management capabilities, and is deployed on-premise or in
+  the cloud.
+source_url: https://www.hyland.com/en/products/onbase
+category: Enterprise Content Management
+tags:
+  - Paid
+  - Enterprise
+  - ECM
+  - Records Management
+  - Workflow
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Hyland OnBase is an enterprise content management (ECM) platform for managing
+  documents, records, and business processes at scale.
+
+
+  ## Features
+
+
+  - Document imaging and capture
+
+  - Records management and retention
+
+  - Workflow and business process automation
+
+  - Case management
+
+  - Full-text search and retrieval
+
+  - Role-based access control
+
+  - Integrations with ERP, CRM, and line-of-business systems
+
+
+  ## Deployment
+
+
+  Available as on-premise and cloud-hosted deployment options.
+
+
+  ## Pricing
+
+
+  Commercial, enterprise-grade software with pricing based on deployment scope
+  and user count.
+brand: Hyland
+brand_logo_url: https://www.hyland.com/assets/images/hyland-logo.svg
+images:
+  - https://www.hyland.com/assets/images/hyland-logo.svg
+updated_at: 2026-11-22 00:49

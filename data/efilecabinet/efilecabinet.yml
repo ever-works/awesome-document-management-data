@@ -1,0 +1,58 @@
+name: eFileCabinet
+description: eFileCabinet is a document management system for small and
+  medium-sized businesses. It provides document capture, secure storage, version
+  control, workflow automation, and electronic signatures, available as both
+  cloud and on-premise (self-hosted) solutions.
+source_url: https://www.efilecabinet.com/
+category: Document Management Systems
+tags:
+  - Paid
+  - Cloud
+  - Self-Hosted
+  - Workflow
+  - Document Management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  eFileCabinet is a document management system (DMS) designed for small and
+  medium-sized businesses to capture, store, and manage digital documents.
+
+
+  ## Features
+
+
+  - Document capture and scanning
+
+  - Secure document storage and retrieval
+
+  - Version control
+
+  - Workflow automation
+
+  - Electronic signatures (RightSignature)
+
+  - Role-based access control
+
+  - Full-text search with OCR
+
+  - Integrations with Microsoft Office and Outlook
+
+
+  ## Deployment
+
+
+  Available as cloud-hosted and on-premise (self-hosted) editions.
+
+
+  ## Pricing
+
+
+  Commercial, paid software with subscription pricing; pricing varies by
+  deployment model and user count.
+brand: eFileCabinet
+brand_logo_url: https://www.efilecabinet.com/assets/images/logo.png
+images:
+  - https://www.efilecabinet.com/assets/images/logo.png
+updated_at: 2026-11-22 00:49

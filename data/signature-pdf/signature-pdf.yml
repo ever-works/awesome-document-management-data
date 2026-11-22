@@ -1,0 +1,55 @@
+name: Signature PDF
+description: Sign and manipulate PDFs with collaboration, organization,
+  compression and metadata editing. Licensed under AGPL-3.0.
+source_url: https://signature-pdf.com/
+category: Open-Source & Self-Hosted DMS
+tags:
+  - open-source
+  - self-hosted
+  - pdf
+  - pdf-signing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Signature PDF allows users to sign and manipulate PDFs with collaboration,
+  organization, compression and metadata editing.
+
+
+  ## Features
+
+
+  - PDF signing
+
+  - PDF manipulation
+
+  - Collaboration
+
+  - Document organization
+
+  - PDF compression
+
+  - Metadata editing
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker
+
+
+  ## License
+
+
+  AGPL-3.0
+
+
+  ## Repository
+
+
+  https://github.com/signature-pdf/signature-pdf
+brand: Signature PDF
+brand_logo_url: null
+images: []
+updated_at: 2026-11-22 00:49

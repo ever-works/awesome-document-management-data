@@ -1,0 +1,65 @@
+name: Odoo
+description: Odoo is an open-source suite of business applications that includes
+  document management as part of its broader ERP and CRM platform. It provides
+  file storage, document linking to business records, access control, and
+  versioning, available in both community (open source) and enterprise editions
+  with self-hosted and cloud deployment options.
+source_url: https://www.odoo.com/
+category: Open-Source & Self-Hosted DMS
+tags:
+  - Open Source
+  - Self-Hosted
+  - ERP
+  - Document Management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Odoo is an open-source suite of business applications (ERP, CRM, e-commerce,
+  and more) that includes document management capabilities integrated with
+  business records and processes.
+
+
+  ## Features
+
+
+  - Document storage and attachment to business records (invoices, projects,
+  contacts, etc.)
+
+  - Version control and access permissions
+
+  - Folder structure and tagging
+
+  - Integration with Odoo CRM, ERP, invoicing, project, and website modules
+
+  - Web-based interface
+
+  - Multi-company support
+
+  - Mobile access
+
+
+  ## Deployment
+
+
+  Available as self-hosted (Community Edition, GNU LGPL) and cloud-hosted (Odoo
+  Online, SaaS).
+
+
+  ## Pricing
+
+
+  Community Edition is free and open source (GNU LGPL); Enterprise Edition and
+  SaaS hosting are paid.
+
+
+  ## Repository
+
+
+  Source code available on GitHub: https://github.com/odoo/odoo
+brand: Odoo S.A.
+brand_logo_url: https://www.odoo.com/logo.png
+images:
+  - https://www.odoo.com/logo.png
+updated_at: 2026-11-22 00:49

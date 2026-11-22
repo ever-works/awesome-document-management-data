@@ -1,0 +1,51 @@
+name: Papra
+description: Minimalist document storage, management and archiving platform
+  designed to be simple to use and accessible to everyone. Licensed under
+  AGPL-3.0.
+source_url: https://papra.app/
+category: Open-Source & Self-Hosted DMS
+tags:
+  - open-source
+  - self-hosted
+  - document-archiving
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Papra is a minimalist document storage, management and archiving platform
+  designed to be simple to use and accessible to everyone.
+
+
+  ## Features
+
+
+  - Document storage
+
+  - Document management
+
+  - Document archiving
+
+  - Simple user interface
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker
+
+
+  ## License
+
+
+  AGPL-3.0
+
+
+  ## Repository
+
+
+  https://github.com/petriit/papra
+brand: Papra
+brand_logo_url: null
+images: []
+updated_at: 2026-11-22 00:49

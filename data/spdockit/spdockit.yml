@@ -1,0 +1,33 @@
+name: SPDocKit
+description: SPDocKit is a SharePoint Admin Tool to manage permissions and
+  compare farms. It offers comprehensive SharePoint administration, automated
+  documentation, permissions management, and automated reports & alerts. Pricing
+  is paid, deployed via cloud or on-premises.
+source_url: https://spdockit.com
+category: Document Management Systems
+tags:
+  - Paid
+  - API
+  - SharePoint
+featured: false
+markdown: |-
+  ## Overview
+
+  SPDocKit is a SharePoint Admin Tool to manage permissions and compare farms.
+
+  ## Features
+
+  - Comprehensive SharePoint Administration
+  - Automated Documentation
+  - Permissions Management
+  - Automated Reports & Alerts
+
+  ## Pricing
+
+  Paid. Contact vendor for pricing details.
+
+  ## Deployment
+
+  Cloud or on-premises (Windows).
+brand: SPDocKit
+updated_at: 2026-11-22 00:49

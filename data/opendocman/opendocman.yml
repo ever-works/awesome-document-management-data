@@ -1,0 +1,60 @@
+name: OpenDocMan
+description: OpenDocMan is a free, open-source document management system (DMS)
+  written in PHP. It is designed for small to medium businesses and provides
+  document tracking, version control, role-based access control, and full-text
+  search, with self-hosted deployment on a LAMP stack.
+source_url: https://www.opendocman.com/
+category: Open-Source & Self-Hosted DMS
+tags:
+  - Open Source
+  - Self-Hosted
+  - DMS
+  - PHP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OpenDocMan is a free, open-source document management system (DMS) written in
+  PHP, designed for small to medium businesses.
+
+
+  ## Features
+
+
+  - Document tracking and management
+
+  - Version control
+
+  - Role-based access control and permissions
+
+  - Full-text search
+
+  - Web-based installation and administration
+
+  - Multi-language support
+
+  - Check-in/check-out document locking
+
+
+  ## Deployment
+
+
+  Self-hosted; requires a LAMP stack (Linux, Apache, MySQL, PHP).
+
+
+  ## Pricing
+
+
+  Free and open source under the GNU General Public License (GPL).
+
+
+  ## Repository
+
+
+  Source code available on GitHub: https://github.com/opendocman/opendocman
+brand: OpenDocMan
+brand_logo_url: https://www.opendocman.com/images/logo.png
+images:
+  - https://www.opendocman.com/images/logo.png
+updated_at: 2026-11-22 00:49
